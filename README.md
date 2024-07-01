@@ -30,7 +30,7 @@ This project is a Java library for representing and manipulating various mathema
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/MathFunctionsLibrary.git
+    git clone https://github.com/zartuyt/Math-Functions-in-Java.git
     cd MathFunctionsLibrary
     ```
 
