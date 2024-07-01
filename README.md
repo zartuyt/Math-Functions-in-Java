@@ -1,5 +1,5 @@
 # Mathematical Functions Library: The diagram below shows all the classes that I created, and the parent-child relationship between them.
-
+![Math functions](Screenshot 2024-07-02 at 00.20.34.png)
 ## Overview
 
 This project is a Java library for representing and manipulating various mathematical functions. It includes support for simple functions like constants and polynomials, composite functions, and trigonometric functions. The library allows for operations such as addition, subtraction, multiplication, division, and differentiation of these functions. I have created this project as a homeowork for my OOP class. 
