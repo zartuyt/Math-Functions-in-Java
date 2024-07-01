@@ -1,5 +1,4 @@
-# Mathematical Functions Library: The diagram below shows all the classes that I created, and the parent-child relationship
-between them.
+# Mathematical Functions Library: The diagram below shows all the classes that I created, and the parent-child relationship between them.
 
 ## Overview
 
